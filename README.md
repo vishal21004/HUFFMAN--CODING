@@ -77,7 +77,8 @@ for (char, frequency) in freq:
     print(' %-4r |%12s' % (char, huffmanCode[char]))
 ```
 ## Output:
-![huffman vishal](https://github.com/vishal21004/HUFFMAN--CODING/assets/119560110/c5cb6030-ed50-4dc5-8fa4-06803c59a715)
+![huffman vishal](https://github.com/vishal21004/HUFFMAN--CODING/assets/119560110/ec4393dd-8e46-44be-9083-7364071b416a)
+
 
 
 
