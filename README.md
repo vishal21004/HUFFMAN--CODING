@@ -28,7 +28,7 @@ Register No: 212222230177
 ```
 ### Get the input String
 ```python
-string = 'IYYANAR S 212222240036'
+string = 'VISHAL M.A 212222230177'
 class NodeTree(object):
     def __init__(self, left=None, right=None):
         self.left = left
@@ -77,7 +77,8 @@ for (char, frequency) in freq:
     print(' %-4r |%12s' % (char, huffmanCode[char]))
 ```
 ## Output:
-![ex 12](https://github.com/vishal21004/HUFFMAN--CODING/assets/119560110/82177e6a-98b9-4646-baf7-4ef988e07890)
+![huffman vishal](https://github.com/vishal21004/HUFFMAN--CODING/assets/119560110/c5cb6030-ed50-4dc5-8fa4-06803c59a715)
+
 
 
 
